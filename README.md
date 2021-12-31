@@ -1,2 +1,2 @@
 # nst_attempts
-Attempting to do NST with different images and styles
+Attempting to do Neural Style Transfer with different images and styles
