@@ -1,5 +1,5 @@
 # nst_attempts
-Attempting to do Neural Style Transfer with different images and styles
+Attempts to do Neural Style Transfer with different images and styles
 
 <img width="342" alt="image" src="https://user-images.githubusercontent.com/25467802/163297610-581830b9-19d9-4be6-93c9-6d9963ed34aa.png">
 
